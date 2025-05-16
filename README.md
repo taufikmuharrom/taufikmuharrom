@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Taufik — a Fullstack Enjoyer currently working as a Frontend Engineer, with a deep curiosity for how things work across the entire stack. From crafting smooth user experiences to building scalable systems, I love connecting the dots from end to end.<br><br>I'm passionate about teaching and mentoring. As the founder of a learning community, I’ve been guiding others to grow not just in technical skills, but also in purpose and mindset.<br><br>My tech stack is rooted in the JavaScript ecosystem, supercharged by TypeScript — with tools like Vue, Nuxt, Node.js, and more.<br><br>Let’s build, learn, and grow — together. 🚀
+Hi, I’m Taufik — a Fullstack Enjoyer currently working as a Frontend Engineer, with a deep curiosity for how things work across the entire stack. From crafting smooth user experiences to building scalable systems, I love connecting the dots from end to end.<br><br>I'm passionate about teaching and mentoring. As the founder of a learning community, I’ve been guiding others to grow not just in technical skills, but also in purpose and mindset.<br><br>My tech stack is rooted in the JavaScript ecosystem, supercharged by TypeScript — with tools like Vue, Nuxt, Node.js, and more.
 
 
 ## 🌐 Socials:
